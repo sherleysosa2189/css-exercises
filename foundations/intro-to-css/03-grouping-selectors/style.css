@@ -1,0 +1,13 @@
+#title {
+    background-color: black;
+    color: white;
+}
+
+#button {
+    background-color: yellow;
+}
+
+.adjust-font-size {
+    font-size: 28px;
+    font-family: 'Helvetica', Times New Roman, 'Sans-serif';
+}
